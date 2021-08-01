@@ -1,8 +1,5 @@
 ## Spring Boot WebSocket Chat Appplication
 
-You can checkout the live version of the application at https://spring-ws-chat.herokuapp.com/
-
-![App Screenshot](screenshot.png)
 
 ## Requirements
 
@@ -15,7 +12,7 @@ You can checkout the live version of the application at https://spring-ws-chat.h
 **1. Clone the application**
 
 ```bash
-git clone https://github.com/callicoder/spring-boot-websocket-chat-demo.git
+https://github.com/simrankaur-max/Phase5_NikunjShah.git
 ```
 
 **2. Build and run the app using maven**
@@ -32,8 +29,4 @@ Alternatively, you can run the app directly without packaging it like so -
 mvn spring-boot:run
 ```
 
-## Learn More
 
-You can find the tutorial for this application on my blog -
-
-https://www.callicoder.com/spring-boot-websocket-chat-example/
